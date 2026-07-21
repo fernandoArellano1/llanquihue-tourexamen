@@ -1,0 +1,2 @@
+11111111-1,Juan Perez,Los Copihues,123,Llanquihue,juan@tour.cl
+22222222-2,Maria Gomez,Las Rosas,456,Puerto Varas,maria@tour.cl
